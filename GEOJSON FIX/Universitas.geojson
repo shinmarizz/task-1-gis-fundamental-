@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "Universitas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32748" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "way/227762673", "type": "Islamic Private University", "name": "Universitas Islam 45" }, "geometry": { "type": "Point", "coordinates": [ 721981.134296506759711, 9307872.14439501427114 ] } },
+{ "type": "Feature", "properties": { "id": "way/488166536", "type": "Private University", "name": "Bina Insani Campus" }, "geometry": { "type": "Point", "coordinates": [ 720678.046184333739802, 9307652.248497243970633 ] } },
+{ "type": "Feature", "properties": { "id": "way/706554415", "type": "Islamic Private University", "name": "Universitas Islam As-Syafiiyah" }, "geometry": { "type": "Point", "coordinates": [ 711334.823453972814605, 9307433.843170866370201 ] } },
+{ "type": "Feature", "properties": { "id": "way/706566172", "type": "Private University", "name": "BSI Jatiwaringin" }, "geometry": { "type": "Point", "coordinates": [ 711372.185922515229322, 9307266.274765584617853 ] } },
+{ "type": "Feature", "properties": { "id": "way/778724431", "type": "Private University", "name": "Universitas Gunadarma Kampus J1" }, "geometry": { "type": "Point", "coordinates": [ 718041.467599736875854, 9308895.153911447152495 ] } },
+{ "type": "Feature", "properties": { "id": "way/931938483", "type": "Private University", "name": "STMIK Pranata Indonesia" }, "geometry": { "type": "Point", "coordinates": [ 723033.240349591011181, 9306336.35504188016057 ] } },
+{ "type": "Feature", "properties": { "id": "way/933294240", "type": "Private University", "name": "Universitas Krisnadwipayana" }, "geometry": { "type": "Point", "coordinates": [ 711026.72827799920924, 9307302.421577353030443 ] } },
+{ "type": "Feature", "properties": { "id": "way/1013665631", "type": "Private University", "name": "Universitas Bhayangkara Jakarta Raya" }, "geometry": { "type": "Point", "coordinates": [ 722329.989630169468001, 9311711.840118117630482 ] } },
+{ "type": "Feature", "properties": { "id": "way/1205355318", "type": "Private University", "name": "Universitas Gunadarma J6 Cikunir" }, "geometry": { "type": "Point", "coordinates": [ 716769.977410777355544, 9307773.102813925594091 ] } },
+{ "type": "Feature", "properties": { "id": "way/1274570644", "type": "Private University", "name": "Binus University Bekasi" }, "geometry": { "type": "Point", "coordinates": [ 721254.542657022713684, 9312085.725865738466382 ] } },
+{ "type": "Feature", "properties": { "id": "way/1328292310", "type": "Private University", "name": "Universitas Gunadarma Kampus J2" }, "geometry": { "type": "Point", "coordinates": [ 718578.477428623358719, 9309069.917692039161921 ] } },
+{ "type": "Feature", "properties": { "id": "way/1508983761", "type": "Private University", "name": "STIE Mulia Pratama" }, "geometry": { "type": "Point", "coordinates": [ 723392.015141329844482, 9307620.771973624825478 ] } }
+]
+}
